@@ -1,5 +1,10 @@
 <div align="center">
   <img src="/public/preview.png" alt="Velmoryx preview" width="100%/>
+
+
+
+
+    
   <h1>🌍 Velmoryx — Cinematic Luxury Travel</h1>
   <p><strong>Beyond Travel. Into Experience.</strong></p>
   <p>
