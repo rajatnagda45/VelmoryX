@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🌍 Velmoryx — Cinematic Luxury Travel</h1>
-  <p><strong>Beyond Travel. Into Experience.</strong></p>
+  <h2><strong>Beyond Travel. Into Experience.</strong></h2>
   <img src="/public/preview.png" alt="Velmoryx preview" width="100%/>
   <p>
     <a href="#quick-start">Quick Start</a> ·
