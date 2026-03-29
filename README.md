@@ -1,4 +1,3 @@
-````md
 <div align="center">
   <img src="/public/logo.png" alt="Velmoryx Logo" height="90" />
   <h1>🌍 Velmoryx — Cinematic Luxury Travel</h1>
@@ -74,7 +73,7 @@ git clone https://github.com/your-username/velmoryx.git
 cd velmoryx
 npm install
 npm run dev
-````
+```
 
 Visit:
 
@@ -97,32 +96,29 @@ RAZORPAY_SECRET=your_secret
 
 ## 🧱 Tech Stack
 
-* **Frontend**: Next.js 14, React, TypeScript
-* **Styling**: Tailwind CSS
-* **Animations**: Framer Motion, Lenis
-* **Backend**: Next.js API Routes
-* **Forms**: React Hook Form + Zod
-* **Payments**: Razorpay
+* **Frontend**: Next.js 14, React, TypeScript  
+* **Styling**: Tailwind CSS  
+* **Animations**: Framer Motion, Lenis  
+* **Backend**: Next.js API Routes  
+* **Forms**: React Hook Form + Zod  
+* **Payments**: Razorpay  
 
 ---
 
 ## 🎬 Core Animations
 
 ### 1. Hero Scroll (Interior → Pier)
-
-* Canvas-based animation
-* Frames loaded from `/public/sequence-1/`
-* Scroll-driven cinematic storytelling
+- Canvas-based animation
+- Frames loaded from `/public/sequence-1/`
+- Scroll-driven cinematic storytelling
 
 ### 2. Villa Transition (Exterior → Interior)
-
-* Smooth scroll animation
-* Frames from `/public/sequence-2/`
+- Smooth scroll animation
+- Frames from `/public/sequence-2/`
 
 ### 3. Globe Animation
-
-* Looping video (`/public/globe-loop.mp4`)
-* Background immersive section
+- Looping video (`/public/globe-loop.mp4`)
+- Background immersive section
 
 ---
 
@@ -178,32 +174,32 @@ User Scroll → Scroll Progress (0–1)
 
 ## ⚡ Performance Optimization
 
-* Preloaded image frames
-* requestAnimationFrame rendering
-* DPR-aware canvas scaling
-* Lazy loading sections
-* Mobile optimization (video fallback)
+- Preloaded image frames
+- requestAnimationFrame rendering
+- DPR-aware canvas scaling
+- Lazy loading sections
+- Mobile optimization (video fallback)
 
 ---
 
 ## 🔥 Key Highlights
 
-* Cinematic luxury UI experience
-* Smooth, high-performance animations
-* Premium brand-level design
-* Fully functional booking system
-* Scalable architecture
+* Cinematic luxury UI experience  
+* Smooth, high-performance animations  
+* Premium brand-level design  
+* Fully functional booking system  
+* Scalable architecture  
 
 ---
 
 ## 📈 Roadmap
 
-* [ ] AI-based travel recommendations
-* [ ] User dashboard & saved trips
-* [ ] Interactive map integration
-* [ ] Advanced animation engine
-* [ ] Multi-language support
-* [ ] Personalized luxury packages
+* [ ] AI-based travel recommendations  
+* [ ] User dashboard & saved trips  
+* [ ] Interactive map integration  
+* [ ] Advanced animation engine  
+* [ ] Multi-language support  
+* [ ] Personalized luxury packages  
 
 ---
 
@@ -223,11 +219,11 @@ MIT License
 
 Velmoryx aims to redefine travel platforms by combining:
 
-* Cinema-level storytelling
-* Luxury brand aesthetics
-* Modern web engineering
+- Cinema-level storytelling  
+- Luxury brand aesthetics  
+- Modern web engineering  
 
-> The goal is simple:
+> The goal is simple:  
 > Make every user feel like they are already on the journey.
 
 ---
@@ -236,13 +232,10 @@ Velmoryx aims to redefine travel platforms by combining:
 
 If you like this project:
 
-* ⭐ Star the repo
-* 🍴 Fork it
-* 🚀 Share it
+* ⭐ Star the repo  
+* 🍴 Fork it  
+* 🚀 Share it  
 
 ---
 
 **Velmoryx — Beyond Travel. Into Experience.**
-
-```
-```
