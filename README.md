@@ -1,18 +1,12 @@
 <div align="center">
   <img src="/public/preview.png" alt="Velmoryx preview" width="100%/>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
   <h1>🌍 Velmoryx — Cinematic Luxury Travel</h1>
   <p><strong>Beyond Travel. Into Experience.</strong></p>
   <p>
     <a href="#quick-start">Quick Start</a> ·
-    <a href="#features">Features</a> ·
-    <a href="#architecture">Architecture</a> ·
-    <a href="#roadmap">Roadmap</a>
+    <a href="#-features">Features</a>
+    <a href="#-architecture">Architecture</a>
+    <a href="#-roadmap">Roadmap</a>
   </p>
 </div>
 
