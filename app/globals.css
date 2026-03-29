@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-cormorant);
+  
+  --color-background: #FFFFFF;
+  --color-foreground: #1A1A1A;
+  --color-accent: #1FB4B4;
+  --color-gold: #C6A769;
+
+  --spacing-brand: 1.5rem;
+}
+
+:root {
+  --background: #FFFFFF;
+  --foreground: #1A1A1A;
+  --accent: #1FB4B4;
+  --gold: #C6A769;
+}
+
+[data-theme="dark"] {
+  --background: #0c0c0c;
+  --foreground: #ffffff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.glass-panel {
+  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.text-gradient-gold {
+  background: linear-gradient(to right, #C6A769, #D4AF37);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Custom scroll progress indicator */
+#scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 2px;
+  background: var(--accent);
+  z-index: 1000;
+}
+/* Hide Next.js Dev Elements (Build indicator, Static/Dynamic overlay, Turbopack Info) */
+#__next-build-indicator,
+#next-dev-overlay,
+.next-dev-button,
+[data-next-dev-indicator],
+[data-next-dev-button],
+[data-nextjs-toast],
+[data-nextjs-indicator],
+[class*="DevIndicator"],
+svg[class*="DevIndicator"],
+button[class*="DevIndicator"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
