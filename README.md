@@ -2,6 +2,10 @@
   <img src="/public/preview.png" alt="Velmoryx preview" width="100%/>
     <br>
     <br>
+    <br>
+    <br>
+    <br>
+    <br>
   <h1>🌍 Velmoryx — Cinematic Luxury Travel</h1>
   <p><strong>Beyond Travel. Into Experience.</strong></p>
   <p>
